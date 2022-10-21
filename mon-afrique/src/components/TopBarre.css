@@ -1,0 +1,43 @@
+/********************start Propritys ***************************/
+/***************************************************************/
+
+.center_column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.center_arow{
+    display: flex;
+    flex-direction: arow;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/********************end Propritys***************************/
+/***************************************************************/
+
+.TopBarre{
+    height: 10vh;
+    border: 1px solid black;
+}
+.logo_TopBarre{
+    height: 50px;
+}
+.searh_TopBarre{
+    height: 30px;
+    width: 25vw;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.fa-magnifying-glass{
+    transform: translateX(-5vw);
+}
+.p_topBarre{
+    top:2px;
+    transform: translate(-10.5vw, 7.8px);
+}
+
+
+
+
+
